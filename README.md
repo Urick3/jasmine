@@ -1,1 +1,1 @@
-# jasmine
+# javascript-jasmine
